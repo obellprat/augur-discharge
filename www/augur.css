@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter');
+
+/* Global Font adjustments */
+* { font-family: Inter ; color: #404040; }
+
+h5 {
+  font-family: Inter;
+}
+
+.shiny-notification {position: fixed; top: 50% ;left: 20%}
+
+/* Header background */
+.skin-blue .main-header {
+  background-color: #ffffff;
+}
+
+.leaflet-image-layer.leaflet-interactive {
+  fill: orange;
+}
+
+.leaflet-control-search .search-input {
+  width: 175px;
+  color: black;
+}
+
+.leaflet-marker-icon.leaflet-interactive .leaflet-image-layer.leaflet-interactive .leaflet-pane{
+  stroke: orange !important;
+}
+
+.navbar-custom-menu {
+}
+
+/* Logo */
+.skin-blue .main-header .logo {
+  background-color: #ffffff;
+  color: #404040; 
+}
+
+/* Logo when hovered */
+.skin-blue .main-header .logo:hover {
+  background-color: #ffffff;
+}
+
+/* navbar (rest of the header) */
+.skin-blue .main-header .navbar {
+  background-color: #ffffff;
+}
+
+/* Menu Language */
+.main-header .navbar-custom-menu {
+}
+
+/*Toggle button when hovered  */                    
+.skin-blue .main-header .navbar .sidebar-toggle{
+ color: #404040;
+ background-color: #ffffff;
+ font-size: 16px;
+}
+
+/* Toggle button when hovered  */                    
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+ color: #404040;
+ background-color: #ebebeb;
+ font-size: 16px;
+}
+
+/* Main sidebar */
+.skin-blue .main-sidebar {
+   background-color: #ebebeb;
+}
+
+
+/*Fontsize Markers */
+.btn-default {
+	margin-top: 10px;
+	background: #67aee0;
+	border-color: #67aee0;
+	color: white;
+}
+
+.btn-default:hover {
+	margin-top: 10px;
+	background: #67aee0;
+	border-color: #67aee0;
+	color: white;
+}
+/* Box properties */
+.box.box-solid.box-primary>.box-header {
+  color:#ffffff;
+  background:#ffffff;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.box.box-solid.box-primary{
+  border-radius: 5px 5px 5px 5px;
+  border-color: #ffffff;
+}
+
+/* Boxes header text */
+.box-header h3.box-title {
+   font-size: 18px;
+}
+
+.nav-tabs-custom > .nav-tabs > li.header {
+   font-size: 18px;
+}
+

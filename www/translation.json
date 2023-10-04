@@ -1,0 +1,95 @@
+{
+  "languages": ["en", "es", "de"],
+  "translation": [
+    {
+      "en": "Change language",
+      "es": "Cambiar idioma",
+      "de": "Sprache wechseln"
+    },
+    {
+    "en": "Map",
+    "es": "Mapa",
+    "de": "Karte"
+    },
+    {
+    "en": "Hydrogram",
+    "es": "Hidrograma",
+    "de": "Hydrogram"
+    },
+    {
+    "en": "Catchment Properties",
+    "es": "Propiedades de la cuenca",
+    "de": "Eigenschaften des Einzugsgebiets"
+    },
+    {
+    "en": "Parameters",
+    "es": "Parametros",
+    "de": "Parameter"
+    },
+    {
+    "en": "Land cover",
+    "es": "Cubierta terrestre",
+    "de": "Bodenbedeckung"
+    },
+    {
+    "en": "Catchment Area",
+    "es": "Cuenca hidrográfica",
+    "de": "Einzugsgebiet"
+    },
+    {
+    "en": "Soil Type",
+    "es": "Tipo de suelo",
+    "de": "Bodentyp"
+    },
+    {
+    "en": "Slope Gradient",
+    "es": "Gradiente de pendiente",
+    "de": "Hangneigung"
+    },
+    {
+    "en": "Main river length [m]",
+    "es": "Longitud del río principal [m]",
+    "de": "Länge des Hauptflusses [m]"
+    },
+    {
+    "en": "Climate Change Period",
+    "es": "Periodo de cambio climático",
+    "de": "Klimawandel Zeitraum"
+    },
+    {
+    "en": "Compute Discharge",
+    "es": "Calcular el caudal",
+    "de": "Abfluss berechnen"
+    },
+    {
+    "en": "Farmland [%]",
+    "es": "Tierras agrícolas [%]",
+    "de": "Ackerland [%]"
+    },
+    {
+    "en": "Pasture [%]",
+    "es": "Pastos [%]",
+    "de": "Weide [%]"
+    },
+    {
+    "en": "Forest [%]",
+    "es": "Bosque [%]",
+    "de": "Wald [%]"
+    },
+    {
+    "en": "Settlement [%]",
+    "es": "Asentamiento [%]",
+    "de": "Siedlung [%]"
+    },
+    {
+    "en": "Debris [%]",
+    "es": "Escombros [%]",
+    "de": "Geröll [%]"
+    },
+    {
+    "en": "Delineate Catchment",
+    "es": "Delimitar la cuenca",
+    "de": "Einzugsgebiet abgrenzen"
+    }
+  ]
+}
